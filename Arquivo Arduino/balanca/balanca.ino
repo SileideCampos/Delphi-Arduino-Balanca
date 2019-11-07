@@ -21,7 +21,8 @@ void setup(){
   c=0;
 }
  
-void loop(){
+void loop()
+{
   c = bt.read();
   if (c == 112){ //p
     bt.print(balanca.get_units() ,2);

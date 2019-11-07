@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/01/05 13:58:57.000.117,=C:\Users\Sileide\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/06 11:24:28.000.604,=C:\Users\Sileide\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/17 09:59:44.000.446,=C:\Users\Sileide\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/02/19 14:58:10.000.376,=C:\Users\Sileide\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/23 15:17:17.000.816,=C:\Users\Sileide\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/23 15:34:53.000.072,C:\Projetos\Delphi\Nutricao\Unit1.fmx=C:\Users\Sileide\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2017/03/23 15:34:53.000.072,C:\Projetos\Delphi\Nutricao\Unit1.pas=C:\Users\Sileide\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/23 15:35:04.000.090,C:\Projetos\Delphi\Nutricao\ValorNutricional.dproj=C:\Users\Sileide\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/03/25 21:32:08.000.377,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNI.Bluetooth.pas</Transaction>
+    <Transaction>2017/03/25 21:32:08.000.344,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.Helpers.pas</Transaction>
+    <Transaction>2017/03/25 21:44:09.000.680,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNI.JavaTypes.pas</Transaction>
+    <Transaction>2017/03/25 21:46:47.000.623,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.NativeWindow.pas</Transaction>
+    <Transaction>2017/03/25 21:46:47.000.220,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.AssetManager.pas</Transaction>
+    <Transaction>2017/03/25 21:46:47.000.488,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNI.Util.pas</Transaction>
+    <Transaction>2017/03/25 21:46:47.000.254,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.Configuration.pas</Transaction>
+    <Transaction>2017/03/25 21:46:47.000.243,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.AssetManagerJni.pas</Transaction>
+    <Transaction>2017/03/25 21:46:47.000.360,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNI.Java.Security.pas</Transaction>
+    <Transaction>2017/03/25 21:46:47.000.373,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNI.Os.pas</Transaction>
+    <Transaction>2017/03/25 21:46:47.000.532,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNIBridge.pas</Transaction>
+    <Transaction>2017/03/25 21:46:47.000.634,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.NativeWindowJni.pas</Transaction>
+    <Transaction>2017/03/25 21:46:47.000.328,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNI.Embarcadero.pas</Transaction>
+    <Transaction>2017/03/25 21:46:47.000.297,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.IOUtils.pas</Transaction>
+    <Transaction>2017/03/25 21:46:47.000.513,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNI.Widget.pas</Transaction>
+    <Transaction>2017/03/25 21:46:47.000.449,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNI.Support.pas</Transaction>
+    <Transaction>2017/03/25 21:46:47.000.413,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNI.Provider.pas</Transaction>
+    <Transaction>2017/03/25 21:46:47.000.287,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.Input.pas</Transaction>
+    <Transaction>2017/03/25 21:46:47.000.609,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.NativeActivity.pas</Transaction>
+    <Transaction>2017/03/25 21:46:47.000.387,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.Jni.pas</Transaction>
+    <Transaction>2017/03/25 21:55:25.000.894,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Android.JNI.Toast.pas</Transaction>
+    <Transaction>2017/03/25 21:59:22.000.324,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\fmx\FMX.Helpers.Android.pas</Transaction>
+    <Transaction>2017/03/25 22:00:13.000.290,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNI.GraphicsContentViewText.pas</Transaction>
+    <Transaction>2017/03/25 22:00:52.000.642,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNI.Net.pas</Transaction>
+    <Transaction>2017/03/25 22:01:44.000.081,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.Bitmap.pas</Transaction>
+    <Transaction>2017/03/25 22:02:05.000.286,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNI.App.pas</Transaction>
+    <Transaction>2017/03/25 22:03:07.000.197,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.AssetManager.pas=</Transaction>
+    <Transaction>2017/03/25 22:13:02.000.483,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.Jni.pas=</Transaction>
+    <Transaction>2017/03/25 22:13:19.000.778,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNIBridge.pas=</Transaction>
+    <Transaction>2017/03/25 22:14:34.000.288,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNIBridge.pas</Transaction>
+    <Transaction>2017/03/25 22:14:34.000.374,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNIMarshal.pas</Transaction>
+    <Transaction>2017/03/25 22:15:30.000.744,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.Jni.pas</Transaction>
+    <Transaction>2017/03/25 22:16:10.000.887,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.NativeActivity.pas=</Transaction>
+    <Transaction>2017/03/25 22:17:20.000.330,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.Consts.pas</Transaction>
+    <Transaction>2017/03/25 22:17:50.000.895,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.NativeActivity.pas</Transaction>
+    <Transaction>2017/03/25 22:19:59.000.998,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.NativeWindow.pas=</Transaction>
+    <Transaction>2017/03/25 22:19:59.000.962,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\fmx\FMX.Helpers.Android.pas=</Transaction>
+    <Transaction>2017/03/25 22:19:59.000.981,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.NativeWindowJni.pas=</Transaction>
+    <Transaction>2017/03/25 22:20:00.000.029,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNIMarshal.pas=</Transaction>
+    <Transaction>2017/03/25 22:20:00.000.016,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.NativeActivity.pas=</Transaction>
+    <Transaction>2017/03/25 22:23:33.000.218,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNI.JavaTypes.pas=</Transaction>
+    <Transaction>2017/03/25 22:23:33.000.300,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.Input.pas=</Transaction>
+    <Transaction>2017/03/25 22:23:33.000.320,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.Configuration.pas=</Transaction>
+    <Transaction>2017/03/25 22:23:33.000.148,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNI.Support.pas=</Transaction>
+    <Transaction>2017/03/25 22:23:33.000.120,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNI.Widget.pas=</Transaction>
+    <Transaction>2017/03/25 22:23:33.000.198,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNI.Net.pas=</Transaction>
+    <Transaction>2017/03/25 22:23:33.000.287,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.IOUtils.pas=</Transaction>
+    <Transaction>2017/03/25 22:23:33.000.134,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNI.Util.pas=</Transaction>
+    <Transaction>2017/03/25 22:23:33.000.275,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.Jni.pas=</Transaction>
+    <Transaction>2017/03/25 22:23:33.000.324,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.Bitmap.pas=</Transaction>
+    <Transaction>2017/03/25 22:23:33.000.256,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNI.Bluetooth.pas=</Transaction>
+    <Transaction>2017/03/25 22:23:33.000.105,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNIBridge.pas=</Transaction>
+    <Transaction>2017/03/25 22:23:33.000.334,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.AssetManagerJni.pas=</Transaction>
+    <Transaction>2017/03/25 22:23:33.000.304,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.Helpers.pas=</Transaction>
+    <Transaction>2017/03/25 22:23:33.000.165,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNI.Provider.pas=</Transaction>
+    <Transaction>2017/03/25 22:23:33.000.238,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNI.GraphicsContentViewText.pas=</Transaction>
+    <Transaction>2017/03/25 22:23:33.000.338,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Android.JNI.Toast.pas=</Transaction>
+    <Transaction>2017/03/25 22:23:33.000.250,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNI.Embarcadero.pas=</Transaction>
+    <Transaction>2017/03/25 22:23:33.000.309,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.Consts.pas=</Transaction>
+    <Transaction>2017/03/25 22:23:33.000.230,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNI.Java.Security.pas=</Transaction>
+    <Transaction>2017/03/25 22:23:33.000.179,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNI.Os.pas=</Transaction>
+    <Transaction>2017/03/25 22:23:33.000.261,C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Androidapi.JNI.App.pas=</Transaction>
+    <Transaction>2017/03/25 23:00:59.000.250,=C:\Program Files (x86)\Embarcadero\Studio\15.0\source\rtl\android\Android.JNI.Toast.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<Pssc iOSSimulator="iPhone5"/>
+		<NoProfile Android="0054462160"/>
+	</ActiveMobileDevice>
+</BorlandProject>

@@ -1,0 +1,347 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Nutri'#231#227'o'
+  ClientHeight = 385
+  ClientWidth = 310
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  OnClose = FormClose
+  OnShow = FormShow
+  DesignerMasterStyle = 3
+  object ScaledLayout1: TScaledLayout
+    Align = Client
+    OriginalWidth = 376.000000000000000000
+    OriginalHeight = 480.000000000000000000
+    Size.Width = 310.000000000000000000
+    Size.Height = 385.000000000000000000
+    Size.PlatformDefault = False
+    object TabControl1: TTabControl
+      Align = Client
+      FullSize = True
+      Size.Width = 310.000000000000000000
+      Size.Height = 385.000000000000000000
+      Size.PlatformDefault = False
+      TabHeight = 49.000000000000000000
+      TabIndex = 0
+      TabOrder = 2
+      TabPosition = Bottom
+      OnChange = TabControl1Change
+      Sizes = (
+        310s
+        336s
+        310s
+        336s)
+      object TabItem1: TTabItem
+        CustomIcon = <
+          item
+          end>
+        IsSelected = True
+        Size.Width = 155.000000000000000000
+        Size.Height = 49.000000000000000000
+        Size.PlatformDefault = False
+        StyleLookup = ''
+        TabOrder = 0
+        Text = 'Principal'
+        ExplicitSize.cx = 188.000000000000000000
+        ExplicitSize.cy = 49.000000000000000000
+        object Panel1: TPanel
+          Align = Top
+          Position.Y = 53.000000000000000000
+          Size.Width = 310.000000000000000000
+          Size.Height = 36.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 0
+        end
+        object TabControl2: TTabControl
+          Align = Client
+          FullSize = True
+          Size.Width = 310.000000000000000000
+          Size.Height = 247.000000000000000000
+          Size.PlatformDefault = False
+          TabHeight = 49.000000000000000000
+          TabIndex = 0
+          TabOrder = 1
+          TabPosition = None
+          Sizes = (
+            310s
+            247s
+            310s
+            247s)
+          object TabItem3: TTabItem
+            AutoSize = False
+            CustomIcon = <
+              item
+              end>
+            IsSelected = True
+            Size.Width = 8.000000000000000000
+            Size.Height = 8.000000000000000000
+            Size.PlatformDefault = False
+            StyleLookup = ''
+            TabOrder = 0
+            Text = 'TabItem3'
+            ExplicitSize.cx = 8.000000000000000000
+            ExplicitSize.cy = 8.000000000000000000
+            object ListView1: TListView
+              ItemAppearanceClassName = 'TListItemAppearance'
+              ItemEditAppearanceClassName = 'TListItemShowCheckAppearance'
+              HeaderAppearanceClassName = 'TListHeaderObjects'
+              FooterAppearanceClassName = 'TListHeaderObjects'
+              Align = Client
+              Size.Width = 310.000000000000000000
+              Size.Height = 247.000000000000000000
+              Size.PlatformDefault = False
+              TabOrder = 0
+            end
+          end
+          object TabItem4: TTabItem
+            CustomIcon = <
+              item
+              end>
+            IsSelected = False
+            Size.Width = 8.000000000000000000
+            Size.Height = 8.000000000000000000
+            Size.PlatformDefault = False
+            StyleLookup = ''
+            TabOrder = 0
+            Text = 'TabItem4'
+            ExplicitSize.cx = 8.000000000000000000
+            ExplicitSize.cy = 8.000000000000000000
+          end
+        end
+        object Chart1: TChart
+          Border.Color = xFFB79E9E
+          Border.Fill.Color = xFFB79E9E
+          Foot.Font.StyleExt = {00040000000200000004000000}
+          Gradient.Colors = <
+            item
+              Color = claWhite
+            end
+            item
+              Color = claWhite
+            end
+            item
+              Color = xFFEAF3FF
+              Offset = 1.000000000000000000
+            end>
+          Gradient.EndColor = xFFEAF3FF
+          Gradient.MidColor = claWhite
+          Gradient.Visible = True
+          Legend.FontSeriesColor = True
+          Legend.GlobalTransparency = 16
+          Legend.Title.Font.StyleExt = {00070000000000000004000000}
+          Legend.Visible = False
+          SubFoot.Font.StyleExt = {00040000000200000004000000}
+          Title.Text.Strings = (
+            'Divis'#227'o Cal'#243'rica do Prato')
+          Emboss.Color = claTurquoise
+          View3DOptions.Elevation = 315
+          View3DOptions.Orthogonal = False
+          View3DOptions.Perspective = 0
+          View3DOptions.Rotation = 360
+          Zoom.Brush.Kind = None
+          Zoom.Pen.Fill.Color = claSilver
+          Align = Client
+          Color = claWhite
+          TabOrder = 2
+          Visible = False
+          Size.Width = 376.000000000000000000
+          Size.Height = 263.000000000000000000
+          Size.PlatformDefault = False
+          ColorPaletteIndex = 19
+          object Series1: TPieSeries
+            Marks.Font.Size = 9.349397659301758000
+            Marks.Font.Style = [fsStrikeOut]
+            Marks.Font.Color = xFF0D0C0C
+            Marks.Font.Brush.Color = xFF0D0C0C
+            Marks.Font.StyleExt = {08040000000000000004000000}
+            Marks.Shadow.Visible = False
+            Marks.Transparency = 25
+            Marks.Arrow.Color = xFF181616
+            Marks.Arrow.Fill.Color = xFF181616
+            Marks.Callout.Arrow.Color = xFF181616
+            Marks.Callout.Arrow.Fill.Color = xFF181616
+            Marks.Callout.ArrowHead = ahSolid
+            Marks.Symbol.Frame.Color = xFFD36060
+            Marks.Symbol.Frame.Fill.Color = xFFD36060
+            Marks.Symbol.Pen.Color = xFFD36060
+            Marks.Symbol.Pen.Fill.Color = xFFD36060
+            XValues.Order = loAscending
+            YValues.Name = 'Pie'
+            YValues.Order = loNone
+            Frame.InnerBrush.Kind = Gradient
+            Frame.InnerBrush.Gradient.EndColor = claGray
+            Frame.InnerBrush.Gradient.MidColor = claWhite
+            Frame.InnerBrush.Gradient.StartColor = xFF404040
+            Frame.InnerBrush.Gradient.Visible = True
+            Frame.InnerBrush.BackColor = claRed
+            Frame.MiddleBrush.Kind = Gradient
+            Frame.MiddleBrush.Gradient.EndColor = xFF828282
+            Frame.MiddleBrush.Gradient.MidColor = claWhite
+            Frame.MiddleBrush.Gradient.StartColor = claGray
+            Frame.MiddleBrush.Gradient.Visible = True
+            Frame.MiddleBrush.BackColor = claYellow
+            Frame.OuterBrush.Kind = Gradient
+            Frame.OuterBrush.Gradient.EndColor = xFF404040
+            Frame.OuterBrush.Gradient.MidColor = claWhite
+            Frame.OuterBrush.Gradient.StartColor = claSilver
+            Frame.OuterBrush.Gradient.Visible = True
+            Frame.OuterBrush.BackColor = claGreen
+            Frame.Width = 4
+            OtherSlice.Legend.DividingLines.Color = xFFD93838
+            OtherSlice.Legend.DividingLines.Width = 29.069766998291020000
+            OtherSlice.Legend.DividingLines.Fill.Color = xFFD93838
+            OtherSlice.Legend.LegendStyle = lsSeriesGroups
+            OtherSlice.Legend.Title.Font.StyleExt = {00070000000000000004000000}
+            OtherSlice.Legend.Visible = False
+            Transparency = 43
+          end
+        end
+        object Panel2: TPanel
+          Align = Top
+          Size.Width = 310.000000000000000000
+          Size.Height = 53.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 3
+          object Panel3: TPanel
+            Align = Right
+            Position.X = 182.000000000000000000
+            Size.Width = 128.000000000000000000
+            Size.Height = 53.000000000000000000
+            Size.PlatformDefault = False
+            TabOrder = 0
+            object Label3: TLabel
+              Align = Client
+              StyledSettings = [FontColor]
+              Size.Width = 128.000000000000000000
+              Size.Height = 53.000000000000000000
+              Size.PlatformDefault = False
+              TextSettings.Font.Family = 'Verdana'
+              TextSettings.Font.Size = 20.000000000000000000
+              TextSettings.Font.StyleExt = {00070000000000000004000000}
+              TextSettings.HorzAlign = Trailing
+              Text = '0'
+            end
+          end
+          object Panel4: TPanel
+            Align = Client
+            Size.Width = 182.000000000000000000
+            Size.Height = 53.000000000000000000
+            Size.PlatformDefault = False
+            TabOrder = 1
+            object Button2: TButton
+              Align = Client
+              StyledSettings = [Family, Size, Style]
+              Size.Width = 182.000000000000000000
+              Size.Height = 53.000000000000000000
+              Size.PlatformDefault = False
+              TabOrder = 0
+              Text = 'Capturar Peso'
+              TextSettings.FontColor = claWhite
+              TintColor = claCadetblue
+              OnClick = Button2Click
+            end
+          end
+        end
+      end
+      object TabItem2: TTabItem
+        CustomIcon = <
+          item
+          end>
+        IsSelected = False
+        Size.Width = 155.000000000000000000
+        Size.Height = 49.000000000000000000
+        Size.PlatformDefault = False
+        StyleLookup = ''
+        TabOrder = 0
+        Text = 'Configura'#231#245'es'
+        ExplicitSize.cx = 188.000000000000000000
+        ExplicitSize.cy = 49.000000000000000000
+        object Rectangle6: TRectangle
+          Align = Client
+          Size.Width = 310.000000000000000000
+          Size.Height = 336.000000000000000000
+          Size.PlatformDefault = False
+          object Edit3: TEdit
+            Touch.InteractiveGestures = [LongTap, DoubleTap]
+            Align = Top
+            TabOrder = 0
+            KeyboardType = Alphabet
+            Text = 'AB:53:86:34:3E:8D'
+            TextSettings.Font.Family = 'Verdana'
+            TextSettings.Font.Size = 20.000000000000000000
+            TextSettings.Font.StyleExt = {04070000000000000004000000}
+            TextSettings.HorzAlign = Center
+            Position.Y = 65.000000000000000000
+            Size.Width = 310.000000000000000000
+            Size.Height = 32.000000000000000000
+            Size.PlatformDefault = False
+            StyledSettings = [Family, Style, FontColor]
+          end
+          object Label6: TLabel
+            Align = Top
+            StyledSettings = [FontColor]
+            Size.Width = 310.000000000000000000
+            Size.Height = 65.000000000000000000
+            Size.PlatformDefault = False
+            TextSettings.Font.Family = 'Verdana'
+            TextSettings.Font.Size = 18.000000000000000000
+            TextSettings.HorzAlign = Center
+            TextSettings.WordWrap = False
+            Text = 'Dispositivo a ser Conectado:'
+          end
+          object SpeedButton7: TSpeedButton
+            StyledSettings = [Style, FontColor]
+            Position.X = 272.000000000000000000
+            Position.Y = 77.000000000000000000
+            Size.Width = 49.000000000000000000
+            Size.Height = 30.000000000000000000
+            Size.PlatformDefault = False
+            StyleLookup = 'listitembutton'
+            Text = 'ok'
+            TextSettings.Font.Family = 'Verdana'
+            TextSettings.Font.Size = 16.000000000000000000
+            Visible = False
+          end
+          object ListView6: TListView
+            ItemAppearanceClassName = 'TListItemRightDetailAppearance'
+            ItemEditAppearanceClassName = 'TListItemRightDetailDeleteAppearance'
+            HeaderAppearanceClassName = 'TListHeaderObjects'
+            FooterAppearanceClassName = 'TListHeaderObjects'
+            Align = Bottom
+            Position.Y = 97.000000000000000000
+            Size.Width = 310.000000000000000000
+            Size.Height = 239.000000000000000000
+            Size.PlatformDefault = False
+            TabOrder = 1
+            OnItemClick = ListView6ItemClick
+            OnPullRefresh = ListView6PullRefresh
+            AutoTapScroll = True
+            PullToRefresh = True
+          end
+          object Button5: TButton
+            Align = Top
+            StyledSettings = [Family, Size, Style]
+            IconTintColor = claWhite
+            Position.Y = 97.000000000000000000
+            Size.Width = 310.000000000000000000
+            Size.Height = 32.000000000000000000
+            Size.PlatformDefault = False
+            TabOrder = 2
+            Text = 'Conectar'
+            TextSettings.FontColor = claWhite
+            TintColor = claCadetblue
+            OnClick = Button5Click
+          end
+        end
+      end
+    end
+  end
+  object Bluetooth1: TBluetooth
+    Enabled = False
+    Left = 216
+    Top = 121
+  end
+end
